@@ -1,0 +1,12 @@
+.idea/ >> .gitignore
+echo __pycache__/
+venv/ >> .gitignore
+echo *.log >> .gitignore
+
+
+q
+p
+echo .idea/
+__pycache__/ >> .gitignore
+echo venv/
+*.log
